@@ -1,0 +1,6 @@
+[submodule "webflyx"]
+	path = webflyx
+	url = ./webflyx
+[submodule "webflyx-remote"]
+	path = webflyx-remote
+	url = ./webflyx-remote
